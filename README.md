@@ -1,3 +1,3 @@
-# emailGroceryListBOT
+# Email Grocery List Bot
 ---
-This allows you to add items to a grocery list throughout the week, and it will send you an email at a set day of the week with the list. 
+This allows you to update to a grocery list that will automatically be emailed to you at the end of each week. 
